@@ -12,6 +12,7 @@ angular.module('seaspongeApp')
     'BotStencil'
     'HumanUserStencil'
     'ServerStencil'
+    'IntServerStencil'
     'ServiceStencil'
     'WebBrowserStencil'
     'DesktopStencil'
